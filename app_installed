@@ -1,6 +1,13 @@
 [G]
 gprename : untuk rename multiple files
+[M]
+mogrify (terminal) : resize ukuran multiple foto
+->mogrify IMG_12.jpg -resize 10% IMG_12.jpg
 [P]
 postman
 [W]
 wireshark
+[Y]
+youtube-dl
+->(selected video)youtube-dl -c --title -f best --batch-file /home/ujikit/Desktop/readline/tes
+->(playlist video)youtube-dl -cit https://www.youtube.com/playlist?list=PL3286zjDwFuf95-Wt8ooipt5jO0RXhSW4
