@@ -1,3 +1,5 @@
+[A]
+arduino
 [G]
 gprename : untuk rename multiple files
 [M]
@@ -11,3 +13,11 @@ wireshark
 youtube-dl
 ->(selected video)youtube-dl -c --title -f best --batch-file /home/ujikit/Desktop/readline/tes
 ->(playlist video)youtube-dl -cit https://www.youtube.com/playlist?list=PL3286zjDwFuf95-Wt8ooipt5jO0RXhSW4
+
+
+#### Pemrograman ####
+-> package manager
+- composer
+- npm
+-> app runner
+- nodemon (admin) : live server node js

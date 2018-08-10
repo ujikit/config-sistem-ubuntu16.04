@@ -1,0 +1,2 @@
+kill port
+kill `sudo lsof -t -i:8888`
