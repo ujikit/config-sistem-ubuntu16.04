@@ -1,2 +1,5 @@
-kill port
++ kill port
 kill `sudo lsof -t -i:8888`
+
++ restart interface wlp3s0
+ip addr flush enp0s3 && systemctl restart networking.service
