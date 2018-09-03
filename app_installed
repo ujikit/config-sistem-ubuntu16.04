@@ -1,5 +1,6 @@
 [A]
 arduino
+audacity
 
 [E]
 eog : untuk slideshow foto (timer command 4 detik : gsettings set org.gnome.eog.fullscreen seconds 4)
