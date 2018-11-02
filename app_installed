@@ -2,6 +2,9 @@
 arduino
 audacity
 
+[D]
+Docker-Portainer : (Link : https://github.com/andreal01/Docker-Install | Tutorial Youtube)
+
 [E]
 eog : untuk slideshow foto (timer command 4 detik : gsettings set org.gnome.eog.fullscreen seconds 4)
 -> eog --slide-show /opt/lampp/htdocs/Dokumentasi/foto/lampion
@@ -12,6 +15,9 @@ gprename : untuk rename multiple files
 [M]
 mogrify (terminal) : resize ukuran multiple foto
 ->mogrify IMG_12.jpg -resize 10% IMG_12.jpg
+
+[O]
+Openshot
 
 [P]
 postman
