@@ -17,6 +17,11 @@
 #   'alt-shift-p': 'core:move-up'
 #   'alt-p': 'core:move-down'
 
+
+
+
+
+
 'atom-text-editor:not([mini])':
   'alt-k': 'editor:delete-line'
   'alt-d': 'editor:duplicate-lines'
@@ -35,6 +40,14 @@
 'atom-text-editor':
   'alt-l': 'editor:select-line'
   'alt-m': 'bracket-matcher:go-to-matching-bracket'
+  'ctrl-cmd-m': 'bracket-matcher:select-inside-brackets' #select all the text inside the current brackets or opening to closing html
+
+
+
+
+
+
+  
 # You can find more information about keymaps in these guides:
 # * http://flight-manual.atom.io/using-atom/sections/basic-customization/#customizing-keybindings
 # * http://flight-manual.atom.io/behind-atom/sections/keymaps-in-depth/
