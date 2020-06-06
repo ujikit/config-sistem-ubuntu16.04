@@ -1,2 +1,2 @@
 1. keymap.cson
-desc: for Atom Editor custom shortcut
+desc: Atom Editor custom shortcut
