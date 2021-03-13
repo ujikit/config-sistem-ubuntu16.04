@@ -5,3 +5,4 @@
 ├── prettier-atom@0.60.1
 ├── react@0.18.0
 └── svg-preview@0.14.0
+└── atom-inline-blame
